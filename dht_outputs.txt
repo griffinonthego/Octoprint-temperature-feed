@@ -1,0 +1,3 @@
+Temp: 109.4 F / 43.0 C    Humidity: 15%
+Temp: 107.6 F / 42.0 C    Humidity: 14%
+Temp: 107.6 F / 42.0 C    Humidity: 14%
